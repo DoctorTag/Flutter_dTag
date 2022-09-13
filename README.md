@@ -1,4 +1,4 @@
-# dtag_test
+# Evaluation Tool using Flutter
 
 A dTag Demo Flutter project.
 
